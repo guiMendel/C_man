@@ -1,0 +1,13 @@
+030 030		wdtxhgt					0 4
+007			qtX						9
+007			bhX						14
+0			eatsDiag				19
+1			improvPerc				22
+1			corssScreen				25
+003			qtB						28
+007			trB						33
+001			qtQ						38
+010			cdQ						43
+06			tempo de explosao Q 	48
+015			rdQ						52
+010			qtO						57
